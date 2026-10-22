@@ -1,0 +1,4 @@
+# Which language should the console messages use?
+# en - English (default), ru - Русский
+# Want more? Add one in the Language enum and put its code here.
+language: en

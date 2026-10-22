@@ -1,0 +1,7 @@
+name: NothingPlugin
+main: ru.deceased16.NothingPlugin.NothingPlugin
+api-version: 1.13
+version: 1.0
+author: deceased16
+description: A plugin that does nothing (not literally)
+website: https://github.com/deceased16/NothingPlugin
